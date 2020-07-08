@@ -193,5 +193,5 @@ class WxMiniStorage {
   
   const wxMiniStorage = new WxMiniStorage();
   
-  export default wxMiniStorage;
+  module.exports = wxMiniStorage;
   
