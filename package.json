@@ -1,6 +1,6 @@
 {
   "name": "wxmini-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wx 小程序本地缓存辅助工具，提供更友好，更常用的方法",
   "main": "index.js",
   "directories": {
